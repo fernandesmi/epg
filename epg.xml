@@ -59,7 +59,7 @@
     <channel update="i" site="lineup.net.br" site_id="211" xmltv_id="Canção Nova">Canção Nova</channel>
     <channel update="i" site="lineup.net.br" site_id="151" xmltv_id="Cartoon Network">
       <display-name lang="pt">SBT</display-name>
-      <url>https://www.lineup.tv.br</url/>
+      <url>https://www.lineup.tv.br</url>
     </channel>
     <channel update="i" site="lineup.net.br" site_id="1407" xmltv_id="CATVE">CATVE</channel>
     <channel update="i" site="lineup.net.br" site_id="99" xmltv_id="Chef TV">Chef TV</channel>
